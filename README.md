@@ -1,4 +1,4 @@
-# Multitask Multi attention Residual Shrinkage Convolutional Neural Network for Content-based Image Retrieval using cosine similarity and Attention feature fusion of AlexNet, VGG19 and ResNet50
+# Multitask Multi Attention Residual Shrinkage Convolutional Neural Network (MARSCNN) for Content-based Image Retrieval using cosine similarity and Attention feature fusion of AlexNet, VGG19 and ResNet50
 
 This repository implements a **Content-Based Image Retrieval (CBIR)** system using a custom deep learning model named **MARSCNN** along with pre-trained models like **AlexNet, VGG19, and ResNet50** for feature extraction. The extracted features are concatenated using an **attention-based feature fusion technique** to enhance retrieval accuracy. The performance of the models is compared using key metrics.
 
